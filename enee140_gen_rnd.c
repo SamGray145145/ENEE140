@@ -132,6 +132,7 @@ int main() {
         }
     }
 
+
     if (input == 2) {
         int input3;
         int count3;
